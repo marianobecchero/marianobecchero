@@ -7,25 +7,11 @@
 - 💬 Consúltame acerca el desarrollo Backend y Frontend, y bases de datos NoSQL.
 ### Some tools I have used and I'm familiar with:
 
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white)
-
-
-### Favorite DevOps quote:
-
-> "To successfully implement continuous delivery, you need to change the culture of how an entire organization views software development efforts." - [Tommy Tynjä](https://www.linkedin.com/in/tommytynjala/)
-
-### Some of my favorite books:
-- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
--  [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
--  [Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6)
--  [Model Business Canvas](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X415X2M)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=react&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=react&logoColor=white)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
