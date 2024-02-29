@@ -28,4 +28,4 @@
 -  [Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6)
 -  [Model Business Canvas](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X415X2M)
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
