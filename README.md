@@ -10,8 +10,8 @@
 ![node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=react&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
