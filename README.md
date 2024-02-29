@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=I%20am%20Dev.!&height=100&section=header&fontColor=62C196)
+![header](https://capsule-render.vercel.app/api?type=venom&text=I%20am%20Dev.!&height=100&section=header)
 ### Let's connect and have a chat! 🌟
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgaregonzalez/)
 ### A litle bit about me:
